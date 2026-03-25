@@ -3,7 +3,7 @@ package osa
 import (
 	"fmt"
 
-	osasdk "github.com/Miosa-osa/sdk-go"
+	osasdk "github.com/rhl/businessos-backend/internal/osasdk"
 )
 
 // NewCloudClient creates an OSA client backed by MIOSA Cloud (api.miosa.ai).

@@ -7,7 +7,7 @@ import (
 	"github.com/rhl/businessos-backend/internal/integrations/osa"
 	"github.com/rhl/businessos-backend/internal/middleware"
 
-	osasdk "github.com/Miosa-osa/sdk-go"
+	osasdk "github.com/rhl/businessos-backend/internal/osasdk"
 )
 
 // OSASwarmHandler handles OSA swarm orchestration endpoints.

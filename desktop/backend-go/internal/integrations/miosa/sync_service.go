@@ -15,7 +15,7 @@ import (
 	"log/slog"
 	"time"
 
-	osasdk "github.com/Miosa-osa/sdk-go"
+	osasdk "github.com/rhl/businessos-backend/internal/osasdk"
 )
 
 // SyncMode mirrors the OSA_MODE environment variable.

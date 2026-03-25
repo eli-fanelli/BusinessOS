@@ -3,7 +3,6 @@ module github.com/rhl/businessos-backend
 go 1.24.1
 
 require (
-	github.com/Miosa-osa/sdk-go v0.0.0-20260226144618-73c7a2577f84
 	github.com/SherClockHolmes/webpush-go v1.4.0
 	github.com/alicebob/miniredis/v2 v2.35.0
 	github.com/cenkalti/backoff/v5 v5.0.3
@@ -121,5 +120,3 @@ require (
 )
 
 replace github.com/docker/docker => github.com/docker/docker v27.4.1+incompatible
-
-replace github.com/Miosa-osa/sdk-go => ../../../../miosa-sdk-go

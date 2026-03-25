@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	osasdk "github.com/Miosa-osa/sdk-go"
+	osasdk "github.com/rhl/businessos-backend/internal/osasdk"
 	"github.com/rhl/businessos-backend/internal/streaming"
 )
 

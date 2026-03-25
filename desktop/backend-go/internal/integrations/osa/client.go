@@ -7,7 +7,7 @@ import (
 
 	"github.com/google/uuid"
 
-	osasdk "github.com/Miosa-osa/sdk-go"
+	osasdk "github.com/rhl/businessos-backend/internal/osasdk"
 )
 
 // Client is a thin wrapper around the SDK that preserves the BOS method signatures.

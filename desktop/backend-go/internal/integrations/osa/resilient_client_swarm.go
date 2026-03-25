@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"log/slog"
 
-	osasdk "github.com/Miosa-osa/sdk-go"
+	osasdk "github.com/rhl/businessos-backend/internal/osasdk"
 )
 
 // LaunchSwarm starts a multi-agent swarm with circuit breaker protection.
